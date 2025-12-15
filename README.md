@@ -1,4 +1,4 @@
-# HashiCorp Vault Demo – Full Repro Guide  
+# HashiCorp Vault Demo Guide  
 **Vault 1.19.5 · Node.js UI · Transit + Transform**
 
 This guide walks you from **zero → fully working demo**, matching the **current, working state**:
